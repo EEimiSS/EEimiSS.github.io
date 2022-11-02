@@ -1,0 +1,56 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+	font-family: sans-serif;
+}
+a {
+	display: block;
+	background: #00A9D4;
+	color: #fff;
+	padding: 15px;
+	cursor: pointer;
+	text-decoration: none;
+	width: 320px;
+	text-align: center;
+	border-radius: 5px;
+	font-size: 20px;
+}
+a:hover {
+	background: #00729D;
+}
+.btn-2 {
+	background: #F98909;
+}
+
+.btn-2:hover {
+	background: #DC6C11;
+}
+p {
+	color: #888;
+	padding: 15px;
+}
+body {
+    background-image: url(https://media.wired.com/photos/627da1085d49787abdf713b4/master/pass/Pakistani-Gamers-Want-a-Seat-at-the-Table-Culture-shutterstock_1949862841.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    position: absolute;
+    top: 17%
+    Left: 30%
+    width: 800px;
+    border:2px solid;
+    padding: 40px
+    border-radius: 12px;
+    padding-top: 80px;
+
+}
